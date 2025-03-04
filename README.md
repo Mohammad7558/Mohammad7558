@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Mohammod 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Frontend+Developer;React+and+Tailwind+Enthusiast;Passionate+about+Building+Beautiful+UI;Transforming+Ideas+into+Reality🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Operator+MonoLig&size=22&pause=1000&color=F75C7E&width=435&lines=Frontend+Developer;React+and+Tailwind+Enthusiast;Passionate+about+Building+Beautiful+UI;Transforming+Ideas+into+Reality🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
