@@ -30,7 +30,10 @@
   🏗 Built with **Tailwind CSS, Daisy Ui & Javascript**  
   🎨 Fully responsive & visually appealing
 
-  ### 📫 Connect with Me  
+
+
+  
+### 📫 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
