@@ -36,7 +36,7 @@
   </a>
 </p>
 
-
+---
 
 ### 🚀 Tech Stack  
 <p align="center">
@@ -49,7 +49,7 @@
 ### 🚀 My Recent Projects  
 - **📌 [Project 1: Stunning Task App](https://mohammad7558.github.io/assignment-5/)**  
   🏗 Built with **Tailwind CSS, Daisy Ui & Javascript**  
-  🎨 Fully responsive & visually appealing
+  🎨 Fully responsive & visually appealing  
 
 
 ### 🌱 Fun Fact  
