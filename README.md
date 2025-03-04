@@ -1,7 +1,7 @@
 # Hi there! 👋
-I'm **Your Name** — a passionate developer.
+I'm **Mohammod** — a passionate developer.
 
-- 🔭 I’m currently working on [Your Project](MARN STACK)
+- 🔭 I’m currently working on **MERN STACK**
 - 🌱 I’m learning **Javascript & React**
 - 💬 Ask me about **JavaScript, React, Open Source**
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile)
