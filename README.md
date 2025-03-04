@@ -28,7 +28,27 @@
 ### 🚀 My Recent Projects  
 - **📌 [Project 1: Stunning Task App](https://mohammad7558.github.io/assignment-5/)**  
   🏗 Built with **Tailwind CSS, Daisy Ui & Javascript**  
-  🎨 Fully responsive & visually appealing  
+  🎨 Fully responsive & visually appealing
+
+  ### 📫 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=white">
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white">
+  </a>
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://wa.me/yourwhatsappphonenumber" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
+  </a>
+</p>
+
 
 
 ### 🌱 Fun Fact  
