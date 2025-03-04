@@ -17,22 +17,6 @@
 - 💬 Let's talk about **UI/UX, frontend performance & best practices**  
 ---
 
-### 🚀 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
-</p>
-
----
-
-
-### 🚀 My Recent Projects  
-- **📌 [Project 1: Stunning Task App](https://mohammad7558.github.io/assignment-5/)**  
-  🏗 Built with **Tailwind CSS, Daisy Ui & Javascript**  
-  🎨 Fully responsive & visually appealing
-
-
-
-  
 ### 📫 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
@@ -52,6 +36,20 @@
   </a>
 </p>
 
+
+
+### 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+---
+
+
+### 🚀 My Recent Projects  
+- **📌 [Project 1: Stunning Task App](https://mohammad7558.github.io/assignment-5/)**  
+  🏗 Built with **Tailwind CSS, Daisy Ui & Javascript**  
+  🎨 Fully responsive & visually appealing
 
 
 ### 🌱 Fun Fact  
