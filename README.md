@@ -49,8 +49,10 @@
 ### 🚀 My Recent Projects  
 - **📌 [Project 1: Stunning Task App](https://mohammad7558.github.io/assignment-5/)**  
   🏗 Built with **Tailwind CSS, Daisy Ui & Javascript**  
-  🎨 Fully responsive & visually appealing  
-
+  🎨 Fully responsive & visually appealing
+  
+- **📌 [Project 2: Video App](https://mohammad7558.github.io/PH-TUBE/)**
+  🏗 Built with **Tailwind CSS, Daisy Ui & Javascript**  
 
 ### 🌱 Fun Fact  
 > 🏆 "A website without CSS is like a house without paint. A website without JavaScript is like a house without lights."  
