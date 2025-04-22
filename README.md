@@ -55,49 +55,48 @@
 
 ---
 
-### 📌 Featured Projects  
+# Doctor Booking App  
+**Live Demo:** [https://doctor-booking-app.netlify.app](https://6807918424789279025b5bad--iridescent-gnome-5d4f2c.netlify.app/)  
 
-- 🔹 **[Stunning Task App](https://mohammad7558.github.io/assignment-5/)**  
-  🛠️ Built with **Tailwind CSS, DaisyUI & JS**  
-  📱 Fully responsive and modern UI
+## 🚀 Features  
 
-- 🔹 **[Video App](https://mohammad7558.github.io/PH-TUBE/)**  
-  🛠️ Built with **Tailwind CSS, DaisyUI & JS**  
-  🎞 A clean and responsive video content app
+### 💻 Core Functionality  
+- Doctor profiles with specialties and availability  
+- Interactive appointment booking system  
+- Booking management (view/cancel appointments)  
+- Persistent data using localStorage  
+- Custom 404 error page  
 
+### ✨ User Experience  
+- Responsive design (mobile/desktop)  
+- Instant notifications (React Hot Toast)  
+- Visual data representation (Recharts)  
+- Intuitive time slot selection  
 
-  # Doctor Booking App
-# Live Link : https://6807918424789279025b5bad--iridescent-gnome-5d4f2c.netlify.app/
+## 🛠 Technologies  
 
-## Features
+### Frontend Stack  
+- **React.js** (Frontend framework)  
+- **Tailwind CSS** (Styling)  
+- **React Router DOM** (Navigation)  
 
-### Core Functionality
-- View available doctors with profiles
-- Book/cancel appointments with time slot selection
-- Detailed doctor information pages
-- Persistent booking history using localStorage
-- Error page for invalid routes
-
-### User Experience
-- Responsive design for all devices
-- Toast notifications for user feedback
-- Interactive time slot selection
-- Visual data representation with charts
-
-## Technologies Used
-
-### Frontend
-- React.js
-- Tailwind CSS
-- React Router DOM
-
-### Libraries
-- React Hot Toast (notifications)
-- Recharts (data visualization)
-- React Counter (time selection)
-- localStorage API (data persistence)
+### Key Libraries  
+- 📅 React Counter (Time selection)  
+- 📊 Recharts (Data visualization)  
+- 🔔 React Hot Toast (Notifications)  
+- 💾 localStorage API (Data persistence)  
 
 ---
+
+### 📌 Other Projects  
+| Project | Live Demo | Tech Stack |  
+|---------|----------|------------|  
+| Stunning Task App | [Link](https://mohammad7558.github.io/assignment-5/) | Tailwind, DaisyUI, JS |  
+| Video App | [Link](https://mohammad7558.github.io/PH-TUBE/) | Tailwind, DaisyUI, JS |  
+
+---
+
+📝 **Note:** All projects feature fully responsive designs and modern UI principles.
 
 ### ✨ Fun Fact  
 
