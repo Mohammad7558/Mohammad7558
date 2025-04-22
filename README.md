@@ -65,6 +65,38 @@
   🛠️ Built with **Tailwind CSS, DaisyUI & JS**  
   🎞 A clean and responsive video content app
 
+
+  # Doctor Booking App
+# Live Link : https://6807918424789279025b5bad--iridescent-gnome-5d4f2c.netlify.app/
+
+## Features
+
+### Core Functionality
+- View available doctors with profiles
+- Book/cancel appointments with time slot selection
+- Detailed doctor information pages
+- Persistent booking history using localStorage
+- Error page for invalid routes
+
+### User Experience
+- Responsive design for all devices
+- Toast notifications for user feedback
+- Interactive time slot selection
+- Visual data representation with charts
+
+## Technologies Used
+
+### Frontend
+- React.js
+- Tailwind CSS
+- React Router DOM
+
+### Libraries
+- React Hot Toast (notifications)
+- Recharts (data visualization)
+- React Counter (time selection)
+- localStorage API (data persistence)
+
 ---
 
 ### ✨ Fun Fact  
