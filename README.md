@@ -55,44 +55,14 @@
 
 ---
 
-# Doctor Booking App  
-**Live Demo:** [https://doctor-booking-app.netlify.app](https://6807918424789279025b5bad--iridescent-gnome-5d4f2c.netlify.app/)  
+## 📌 Projects  
 
-## 🚀 Features  
-
-### 💻 Core Functionality  
-- Doctor profiles with specialties and availability  
-- Interactive appointment booking system  
-- Booking management (view/cancel appointments)  
-- Persistent data using localStorage  
-- Custom 404 error page  
-
-### ✨ User Experience  
-- Responsive design (mobile/desktop)  
-- Instant notifications (React Hot Toast)  
-- Visual data representation (Recharts)  
-- Intuitive time slot selection  
-
-## 🛠 Technologies  
-
-### Frontend Stack  
-- **React.js** (Frontend framework)  
-- **Tailwind CSS** (Styling)  
-- **React Router DOM** (Navigation)  
-
-### Key Libraries  
-- 📅 React Counter (Time selection)  
-- 📊 Recharts (Data visualization)  
-- 🔔 React Hot Toast (Notifications)  
-- 💾 localStorage API (Data persistence)  
-
----
-
-### 📌 Other Projects  
 | Project | Live Demo | Tech Stack |  
-|---------|----------|------------|  
+|--------|-----------|------------|  
+| Doctor Booking App | [Link](https://6807918424789279025b5bad--iridescent-gnome-5d4f2c.netlify.app/) | React, Tailwind CSS, React Router, Recharts, Hot Toast, localStorage |  
 | Stunning Task App | [Link](https://mohammad7558.github.io/assignment-5/) | Tailwind, DaisyUI, JS |  
 | Video App | [Link](https://mohammad7558.github.io/PH-TUBE/) | Tailwind, DaisyUI, JS |  
+
 
 ---
 
