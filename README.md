@@ -66,7 +66,7 @@
 |--------|-----------|------------|  
 | 💼 Freelance Hub | [Live](https://assignment-10-client-sid-c420b.web.app/) | React, Tailwind CSS, DaisyUI, Firebase Auth, MongoDB, Express, Axios, Toast, Dark Theme |  
 | 🏆 AthleticCo Event Manager | [Live](https://assignment-11-client-sid-64337.web.app/) | React, Tailwind CSS, DaisyUI, Firebase, Express, MongoDB, Axios, Toast, Dark Theme |  
-| 🩺 Doctor Booking App | [Live](https://6807918424789279025b5bad--iridescent-gnome-5d4f2c.netlify.app/) | React, Recharts, React Router, Hot Toast, localStorage |  
+| 🩺 Doctor Booking App | [Live](https://iridescent-gnome-5d4f2c.netlify.app/) | React, Recharts, React Router, Hot Toast, localStorage |  
 | ✅ Stunning Task App | [Live](https://mohammad7558.github.io/assignment-5/) | Tailwind, DaisyUI, JavaScript |  
 | 🎥 Video App | [Live](https://mohammad7558.github.io/PH-TUBE/) | Tailwind, DaisyUI, JavaScript |  
 
