@@ -15,23 +15,23 @@
 
 - 🎨 I craft **beautiful and responsive UIs** using **Tailwind CSS**
 - ⚛️ Passionate about **React** and building dynamic full-stack web apps  
-- 🌱 Currently exploring **Next.js**, **design systems**, and **React performance optimization**
+- 🌱 Currently learning **Express.js** and **MongoDB** deeply
 - 💬 I enjoy discussions on **UI/UX, clean code, and frontend best practices**
 
 ---
 
 ## 🔧 Current Activities
 
-- 🔍 Deep diving into **Next.js** & SSR concepts  
-- 💼 Working on **Freelance Hub** and **Event Management** platforms  
-- 🎯 Enhancing skills in **Firebase Auth** and **MongoDB schema design**  
+- 📦 Building **Parcel Delivery System** app with dynamic service logic  
+- 🧠 Exploring **MongoDB schema design** and **Express.js middleware**  
+- 🔧 Practicing **full-stack deployment** with Vercel & Render  
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,vite,nodejs,express,mongodb,firebase,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,express,mongodb,firebase,git,github,postman" />
 </p>
 
 ---
@@ -50,17 +50,11 @@
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
-  </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://www.facebook.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://wa.me/yourwhatsappphonenumber" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
 
@@ -84,9 +78,9 @@
 
 ## 🧠 Currently Exploring  
 
-- 📐 Figma to Frontend integration best practices  
-- ⚙️ React performance and lazy loading  
-- 🔐 Authentication flows and secure APIs  
+- 🧩 Parcel Delivery System – region-based logic & UI
+- ⚙️ Middleware, REST API, and error handling in Express
+- 🌐 MongoDB indexing and aggregation pipelines  
 
 ---
 
