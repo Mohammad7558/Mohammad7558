@@ -22,9 +22,9 @@
 
 ## 🔧 Current Activities
 
-- 📦 Building **Parcel Delivery System** app with dynamic service logic  
+- 📦 Building **Parcel Delivery System** app with dynamic service center logic  
 - 🧠 Exploring **MongoDB schema design** and **Express.js middleware**  
-- 🔧 Practicing **full-stack deployment** with Vercel & Render  
+- 🔧 Practicing **full-stack deployment** using Vercel, Render, Firebase Hosting  
 
 ---
 
@@ -64,23 +64,23 @@
 
 | Project | Live Demo | Tech Stack |  
 |--------|-----------|------------|  
-| 💼 Freelance Hub | [Live](https://assignment-10-client-sid-c420b.web.app/) | React, Tailwind CSS, DaisyUI, Firebase Auth, MongoDB, Express, Axios, Toast, Dark Theme |  
-| 🏆 AthleticCo Event Manager | [Live](https://assignment-11-client-sid-64337.web.app/) | React, Tailwind CSS, DaisyUI, Firebase, Express, MongoDB, Axios, Toast, Dark Theme |  
-| 🩺 Doctor Booking App | [Live](https://iridescent-gnome-5d4f2c.netlify.app/) | React, Recharts, React Router, Hot Toast, localStorage |  
-| ✅ Stunning Task App | [Live](https://mohammad7558.github.io/assignment-5/) | Tailwind, DaisyUI, JavaScript |  
-| 🎥 Video App | [Live](https://mohammad7558.github.io/PH-TUBE/) | Tailwind, DaisyUI, JavaScript |  
+| 💼 Freelancer Hub | <a href="https://assignment-10-client-sid-c420b.web.app/" target="_blank">Live</a> | React, Tailwind CSS, DaisyUI, Firebase Auth, MongoDB, Express, Axios, Toast, Dark Theme |  
+| 🏆 AthleticCo Event Manager | <a href="https://assignment-11-client-sid-64337.web.app/" target="_blank">Live</a> | React, Tailwind CSS, DaisyUI, Firebase, Express, MongoDB, Axios, Toast, Framer Motion, Dark Theme |  
+| 🩺 Doctor Booking App | <a href="https://iridescent-gnome-5d4f2c.netlify.app/" target="_blank">Live</a> | React, Recharts, React Router, Hot Toast, localStorage |  
+| ✅ Stunning Task App | <a href="https://mohammad7558.github.io/assignment-5/" target="_blank">Live</a> | Tailwind, DaisyUI, JavaScript |  
+| 🎥 PH-TUBE Video UI | <a href="https://mohammad7558.github.io/PH-TUBE/" target="_blank">Live</a> | Tailwind, DaisyUI, JavaScript |  
 
 ---
 
-📝 **Note:** All projects are fully responsive and follow modern UI/UX principles.
+📝 **Note:** All projects are fully responsive and built following modern UI/UX principles.
 
 ---
 
 ## 🧠 Currently Exploring  
 
-- 🧩 Parcel Delivery System – region-based logic & UI
-- ⚙️ Middleware, REST API, and error handling in Express
-- 🌐 MongoDB indexing and aggregation pipelines  
+- 🧩 Region-based parcel system design & dynamic dropdown  
+- ⚙️ Express middleware, error handling & async operations  
+- 🌐 MongoDB aggregation and schema optimization  
 
 ---
 
@@ -95,6 +95,6 @@
 
 ### ✨ Fun Fact  
 
-> “A website without CSS is like a house without paint. A website without JavaScript is like a house without lights.”  
+> “A website without CSS is like a house without paint. A website without JavaScript is like a house without lights.”
 
 ---
