@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Mohammad 👋</h1>
 
 <p align="center">
-  <img src="" alt="GitHub Banner" width="100%" />
+  <img src="https://github.com/Mohammad7558/Mohammad7558/blob/main/github-header-image.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
