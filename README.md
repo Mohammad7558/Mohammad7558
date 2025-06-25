@@ -5,10 +5,6 @@
   <img src="https://github.com/Mohammad7558/Mohammad7558/blob/main/20.png" alt="GitHub Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
-</p>
-
 ---
 
 ## 🌟 About Me  
