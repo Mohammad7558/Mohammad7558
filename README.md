@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Mohammad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%26+Tailwind+Enthusiast;Loves+Crafting+Beautiful+UI;Turning+Ideas+into+Reality🚀" alt="Typing SVG" />
+  <img src="https://github.com/Mohammad7558/Mohammad7558/blob/main/github-header-image.png?raw=true" alt="GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
