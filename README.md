@@ -11,7 +11,7 @@
 
 - 🎨 I craft **beautiful and responsive UIs** using **Tailwind CSS**
 - ⚛️ Passionate about **React** and building dynamic full-stack web apps  
-- 🌱 Currently learning **Express.js** and **MongoDB** deeply
+- 🌱 Currently learning **Next-JS** and **Typescript** deeply
 - 💬 I enjoy discussions on **UI/UX, clean code, and frontend best practices**
 
 ---
