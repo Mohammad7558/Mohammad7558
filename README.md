@@ -1,5 +1,5 @@
 <!-- Banner & Intro -->
-<h1 align="center">Hi there, I'm Mohammad 👋A MERN Stack Developer </h1>
+<h1 align="center">Hi there, I'm Mohammad 👋<br> A MERN Stack Developer </h1>
 
 <p align="center">
   <img src="https://github.com/Mohammad7558/Mohammad7558/blob/main/imgGit.png" alt="GitHub Banner" width="100%" />
