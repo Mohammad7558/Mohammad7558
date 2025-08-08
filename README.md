@@ -70,13 +70,6 @@
 
 ---
 
-## 🧠 Currently Exploring  
-
-- 🧩 Region-based parcel system design & dynamic dropdown  
-- ⚙️ Express middleware, error handling & async operations  
-- 🌐 MongoDB aggregation and schema optimization  
-
----
 
 ## 📊 GitHub Stats  
 
