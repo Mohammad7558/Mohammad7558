@@ -58,11 +58,12 @@
 
 ## 📌 Pinned Projects  
 
-| Project | Live Demo | Tech Stack |  
-|--------|-----------|------------|  
-| 💼 Freelancer Hub | <a href="https://assignment-10-client-sid-c420b.web.app/" target="_blank">Live</a> | React, Tailwind CSS, DaisyUI, Firebase Auth, MongoDB, Express, Axios, Toast, Dark Theme |  
-| 🏆 AthleticCo Event Manager | <a href="https://assignment-11-client-sid-64337.web.app/" target="_blank">Live</a> | React, Tailwind CSS, DaisyUI, Firebase, Express, MongoDB, Axios, Toast, Framer Motion, Dark Theme |  
-| 🩺 Doctor Booking App | <a href="https://iridescent-gnome-5d4f2c.netlify.app/" target="_blank">Live</a> | React, Recharts, React Router, Hot Toast, localStorage | 
+| Project | Live Demo | Tech Stack | Description |  
+|--------|-----------|------------|-------------|  
+| 📚 **EduSphere – Study Platform** | <a href="https://the-last-dance-1227f.web.app/" target="_blank">Live</a> | React, Tailwind CSS, DaisyUI, Firebase Auth, MongoDB, Express, Stripe, Axios, Toast, Dark Theme | A collaborative full-stack study platform with role-based dashboards, session booking, payment integration, and resource management. |  
+| 🏆 **AthleticCo Event Manager** | <a href="https://assignment-11-client-sid-64337.web.app/" target="_blank">Live</a> | React, Tailwind CSS, DaisyUI, Firebase, Express, MongoDB, Axios, Toast, Framer Motion, Dark Theme | An event management system featuring role-based dashboards, event registration, and smooth UI animations. |  
+| 💼 **Freelancer Hub** | <a href="https://assignment-10-client-sid-c420b.web.app/" target="_blank">Live</a> | React, Tailwind CSS, DaisyUI, Firebase Auth, MongoDB, Express, Axios, Toast, Dark Theme | A freelance marketplace connecting clients and freelancers with authentication, bookings, and dark theme UI. |  
+
 
 ---
 
