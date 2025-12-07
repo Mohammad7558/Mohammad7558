@@ -1,5 +1,5 @@
 <!-- Banner & Intro -->
-<h1 align="center">Hi there, I'm Mohammad 👋<br> A MERN Stack Developer </h1>
+<h1 align="center">Hi there, I'm Mohammad 👋<br> A Software Developer </h1>
 
 <p align="center">
   <img src="https://i.ibb.co.com/MxqNQmD1/MERN-Stack-scaled.webp" alt="GitHub Banner" width="100%" />
