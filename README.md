@@ -43,16 +43,22 @@
 ## 📫 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammod-bin-amin-b051a0244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/mohammod-bin-amin-b051a0244/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/iam_MOHAMMOD" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  <a href="https://x.com/iam_MOHAMMOD" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.facebook.com/imMOHAMMOD/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <a href="https://www.facebook.com/imMOHAMMOD/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+
+  <!-- Portfolio badge: নিচের href-এ তোমার প্রকৃত পোর্টফোলিও URL বসাও -->
+  <a href="https://iam-mohammad.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
 
 ---
 
