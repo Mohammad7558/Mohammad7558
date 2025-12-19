@@ -1,11 +1,9 @@
-<h1 align="center">
-  Mohammad  
-</h1>
+<h1 align="center">Mohammad</h1>
 
 <h3 align="center">
-  Full Stack JavaScript Developer  
+  Full Stack JavaScript Software Engineer  
   <br />
-  MERN Stack • Next.js • TypeScript
+  MERN Stack • Next.js • TypeScript • PostgreSQL
 </h3>
 
 <p align="center">
@@ -14,56 +12,111 @@
 
 ---
 
-## About Me
+## Professional Summary
 
-I am a **Full Stack JavaScript Developer** with a strong focus on building **scalable, performant, and user-centric web applications**.  
-I enjoy translating complex requirements into clean, maintainable code while following modern UI/UX and software engineering best practices.
+I am a **Full Stack JavaScript Developer** with a growing focus on **software engineering principles, backend architecture, and data-driven application design**.  
+I build production-ready web applications with attention to **scalability, maintainability, and clean system structure**.
 
-**What I do best:**
-- Build responsive and accessible interfaces using **Tailwind CSS**
-- Develop full-stack applications with **React, Node.js, Express, and MongoDB**
-- Design role-based systems, secure authentication, and payment workflows
-- Write clean, reusable, and maintainable code
+I am currently advancing from **frontend-heavy development** into **backend engineering and relational database design**, with hands-on experience in real-world projects.
 
 ---
 
-## Current Focus
+## Engineering Mindset
 
-- Developing a **Parcel Delivery System** with dynamic service-center logic  
-- Improving **MongoDB schema design** and **Express.js middleware architecture**  
-- Practicing **production-grade deployment** using Vercel, Render, and Firebase  
+- Write **clean, predictable, and maintainable code**
+- Prefer **explicit logic over magic**
+- Think in terms of **data flow, state, and system boundaries**
+- Design APIs before writing UI
+- Optimize for **readability and future scalability**
+
+---
+
+## Current Engineering Focus
+
+- Designing **RESTful APIs** with Express.js
+- Learning **PostgreSQL fundamentals**:
+  - Table design & normalization
+  - Primary / foreign keys
+  - Joins, indexes, constraints
+- Understanding **when to use SQL vs NoSQL**
+- Implementing **role-based access control (RBAC)**
+- Improving **error handling & middleware architecture**
 
 ---
 
 ## Tech Stack
 
+### Languages & Core
+- JavaScript (ES6+)
+- TypeScript
+- SQL (PostgreSQL – learning)
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- DaisyUI
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Firebase Authentication
+- Stripe (Payments)
+
+### Tools
+- Git & GitHub
+- Postman
+- VS Code
+- Figma
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,nodejs,express,mongodb,postgres,firebase,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,mongodb,postgres,firebase,git,github,postman" />
 </p>
 
 ---
 
-## Tools & Design
+## Featured Engineering Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,photoshop" />
-</p>
+| Project | Live | Engineering Highlights |
+|------|------|------------------------|
+| **EduSphere – Study Platform** | <a href="https://the-last-dance-1227f.web.app/" target="_blank">Live</a> | • Role-based dashboards (Admin, Tutor, Student)<br>• Secure authentication & authorization<br>• Stripe payment workflow<br>• REST API with Express & MongoDB<br>• Modular frontend architecture |
+| **AthleticCo – Event Manager** | <a href="https://assignment-11-client-sid-64337.web.app/" target="_blank">Live</a> | • Event lifecycle management<br>• Role-based access control<br>• Animated UI with Framer Motion<br>• Backend-driven data rendering |
+| **Freelancer Hub** | <a href="https://assignment-10-client-sid-c420b.web.app/" target="_blank">Live</a> | • Authentication & protected routes<br>• Booking & service flow<br>• Client–freelancer interaction model<br>• Dark-theme UI with scalable components |
 
----
-
-## Featured Projects
-
-| Project | Live Demo | Technology | Overview |
-|-------|----------|------------|----------|
-| **EduSphere – Study Platform** | <a href="https://the-last-dance-1227f.web.app/" target="_blank">Live</a> | React, Tailwind, DaisyUI, Firebase Auth, MongoDB, Express, Stripe | A collaborative study platform with role-based dashboards, session booking, secure payments, and resource management. |
-| **AthleticCo – Event Manager** | <a href="https://assignment-11-client-sid-64337.web.app/" target="_blank">Live</a> | React, Tailwind, Firebase, Express, MongoDB, Framer Motion | Event management system featuring role-based dashboards, registrations, and smooth UI animations. |
-| **Freelancer Hub** | <a href="https://assignment-10-client-sid-c420b.web.app/" target="_blank">Live</a> | React, Tailwind, Firebase Auth, MongoDB, Express | A freelance marketplace connecting clients and freelancers with authentication, booking flow, and dark-theme UI. |
-
-> All projects are fully responsive and follow modern UI/UX standards.
+> All projects follow responsive design principles and are built with real-world use cases in mind.
 
 ---
 
-## GitHub Statistics
+## Database & Data Handling
+
+- MongoDB:
+  - Schema design
+  - Data relationships
+  - Aggregation basics
+
+- PostgreSQL (In Progress):
+  - Relational modeling
+  - Normalization
+  - Joins & indexing
+  - Query optimization fundamentals
+
+---
+
+## Learning Roadmap (Level-2 Track)
+
+- Advanced PostgreSQL queries
+- Express.js advanced middleware
+- API security & validation
+- Backend testing fundamentals
+- System design basics for web apps
+- Next.js server-side rendering & routing
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammad7558&show_icons=true&theme=radical" width="48%" />
@@ -72,17 +125,11 @@ I enjoy translating complex requirements into clean, maintainable code while fol
 
 ---
 
-## Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammod-bin-amin-b051a0244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://x.com/iam_MOHAMMOD" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Tech-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
-  <a href="https://www.facebook.com/imMOHAMMOD/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook" />
   </a>
   <a href="https://iam-mohammad.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome" />
@@ -91,4 +138,4 @@ I enjoy translating complex requirements into clean, maintainable code while fol
 
 ---
 
-> *“Good software is built twice: once in the mind, once in code.”*
+> “Learning never stops. Only the level changes.”
